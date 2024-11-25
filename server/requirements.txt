@@ -1,0 +1,8 @@
+tiktoken
+pinecone[grpc]
+langchain-google-genai
+langchain
+python-dotenv
+langchain-community
+flask
+flask-cors
